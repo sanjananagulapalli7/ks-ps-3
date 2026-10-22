@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ THE QUANTUM KNAPSACK LAB
+# ◈KNAPSACK PS-3
 
 ### Five items. Two quantum processors. One optimization challenge.
 
