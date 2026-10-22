@@ -2,8 +2,6 @@
 
 # ◈KNAPSACK PS-3
 
-### Five items. Two quantum processors. One optimization challenge.
-
 *Exploring how qubit connectivity, circuit routing, and noise shape
 the search for an optimal solution.*
 
